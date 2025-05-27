@@ -1,7 +1,7 @@
 package Quests;
 
 import java.util.Scanner;
-
+//BeeCrowd - 1157 - Lucas Teixeira
 public class Divisores_I {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
